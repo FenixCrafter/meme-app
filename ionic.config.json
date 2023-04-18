@@ -1,0 +1,8 @@
+{
+  "name": "meme-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "0c18135c"
+}
